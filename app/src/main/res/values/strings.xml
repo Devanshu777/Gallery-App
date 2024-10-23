@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="to_show_gallery_images">TO Show Gallery images</string>
+    <string name="gallery_app">Gallery App</string>
+    <string name="lake">lake</string>
+</resources>
